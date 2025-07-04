@@ -5,7 +5,7 @@ Ultragrad is an automatic gradient engine inspired from Andrej Karpathy's [micro
 ![Puppy Image](puppy_beast.png)
 
 ## Installation
-> `uv` is recommended
+> `uv` is recommended and here is the link for the `ultragrad` in the pypi - [link](https://pypi.org/project/ultragrad/)
 
 Install `ultragrad` via `uv`
 ```

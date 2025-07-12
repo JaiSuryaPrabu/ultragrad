@@ -18,8 +18,14 @@ You can use pip to install
 pip install ultragrad
 ```
 
+# TO DOs
+- [ ] Data Loader Class - converts images into tensors, converts text into tensors, etc
+- [ ] GPU acceleration
+
 ## Docs
-> Docs is in under **construction** 🚧
+Check out the documentation in the docs folder
 
 ## Contributions
 > Contribution is open to all ! if you got new ideas/features create a new issue !!!
+
+If you found this repo interesting to work with, head to this [person](https://x.com/__Jaisurya)
